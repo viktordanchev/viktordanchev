@@ -5,9 +5,9 @@
 
 ## 🌐 Socials:
 <p align="left">
-    <a href="https://linkedin.com/in/viktor-danchev-a79369267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor-danchev-a79369267" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/viktordanchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viktordanchev" height="60" width="60" /></a>
-    <a href="https://discord.gg/tetramorph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tetramorph" height="60" width="60" /></a>
+    <a href="https://linkedin.com/in/viktor-danchev-a79369267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor-danchev-a79369267" height="55" width="55" /></a>
+    <a href="https://www.leetcode.com/viktordanchev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viktordanchev" height="55" width="55" /></a>
+    <a href="https://discord.gg/tetramorph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tetramorph" height="55" width="55" /></a>
 </p>
 
 # 💻 Tech Stack:
