@@ -12,7 +12,13 @@
 
 # 💻 Tech Stack:
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,html,css,bootstrap,git" />
+    <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="60" height="60"/>
+    <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="60" height="60"/>
+    <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="60" height="60"/>
+    <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="60" height="60"/>
+    <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60"/>
+    <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="60" height="60"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60" height="60"/>
 </div>
 
 # 📊 GitHub Stats:
