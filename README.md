@@ -19,6 +19,7 @@
     <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60"/>
     <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="60" height="60"/>
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60" height="60"/>
+    <img src="https://www.svgrepo.com/show/354259/react.svg" width="60" height="60"/>
 </div>
 
 # 📊 GitHub Stats:
