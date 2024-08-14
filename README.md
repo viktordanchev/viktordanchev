@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=750&color=FB8C00&center=true&vCenter=true&random=false&width=450&height=60&lines=Hi+There!;I'm+Viktor+Danchev!" alt="Typing SVG" />
 </h1>
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
     <a href="https://linkedin.com/in/viktor-danchev-a79369267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktor-danchev-a79369267" height="50" width="50" /></a>
     <a href="https://discord.gg/tetramorph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tetramorph" height="50" width="50" /></a>
@@ -12,14 +12,25 @@
 
 # 💻 Tech Stack:
 <div align="left">
-    <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="60" height="60"/>
-    <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="60" height="60"/>
-    <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="60" height="60"/>
-    <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="60" height="60"/>
-    <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60"/>
-    <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="60" height="60"/>
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60" height="60"/>
-    <img src="https://www.svgrepo.com/show/354259/react.svg" width="60" height="60"/>
+    <ul>
+        <li>
+            <h2 style="border:none;">Langages</h2>
+            <img src="https://www.svgrepo.com/show/452184/csharp.svg" width="60" height="60"/>
+            <img src="https://www.svgrepo.com/show/349419/javascript.svg" width="60" height="60"/>
+            <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="60" height="60"/>
+            <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="60" height="60"/>
+        </li>
+        <li>
+            <h2 style="border:none;">Libraries/Frameworks</h2>
+            <img src="https://www.svgrepo.com/show/354259/react.svg" width="60" height="60"/>
+            <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="60" height="60"/>
+        </li>
+        <li>
+            <h2 style="border:none;">Technologies</h2>
+            <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60"/>
+            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60" height="60"/>
+        </li>
+    </ul>
 </div>
 
 # 📊 GitHub Stats:
