@@ -24,6 +24,7 @@
             <h2 style="border:none;">Libraries/Frameworks</h2>
             <img src="https://www.svgrepo.com/show/354259/react.svg" width="60" height="60"/>
             <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" width="60" height="60"/>
+            <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="60" height="60"/>
         </li>
         <li>
             <h2 style="border:none;">Technologies</h2>
