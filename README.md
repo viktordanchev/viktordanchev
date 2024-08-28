@@ -31,6 +31,7 @@
             <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60"/>
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60" height="60"/>
             <img src="https://www.svgrepo.com/show/354381/sqlite.svg" width="60" height="60"/>
+            <img src="https://www.svgrepo.com/show/452192/docker.svg" width="60" height="60"/>
         </li>
     </ul>
 </div>
